@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/031_Konstruktori/031_Konstruktori.iml" filepath="$PROJECT_DIR$/031_Konstruktori/031_Konstruktori.iml" />
+      <module fileurl="file://$PROJECT_DIR$/032_Staticke metode/032_Staticke metode.iml" filepath="$PROJECT_DIR$/032_Staticke metode/032_Staticke metode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/034_Quiz - dvije instance/034_Quiz - dvije instance.iml" filepath="$PROJECT_DIR$/034_Quiz - dvije instance/034_Quiz - dvije instance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/035_Quiz - scanner/035_Quiz - scanner.iml" filepath="$PROJECT_DIR$/035_Quiz - scanner/035_Quiz - scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/040_Inheritance_Polymorphism/040_Inheritance_Polymorphism.iml" filepath="$PROJECT_DIR$/040_Inheritance_Polymorphism/040_Inheritance_Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/041_Hiding_Overriding/041_Hiding_Overriding.iml" filepath="$PROJECT_DIR$/041_Hiding_Overriding/041_Hiding_Overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/050_Abstract_Interfaces/050_Abstract_Interfaces.iml" filepath="$PROJECT_DIR$/050_Abstract_Interfaces/050_Abstract_Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/051_Quiz - interface/051_Quiz - interface.iml" filepath="$PROJECT_DIR$/051_Quiz - interface/051_Quiz - interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/052_Quiz - inheritance/052_Quiz - inheritance.iml" filepath="$PROJECT_DIR$/052_Quiz - inheritance/052_Quiz - inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/053_Quiz - abstract class/053_Quiz - abstract class.iml" filepath="$PROJECT_DIR$/053_Quiz - abstract class/053_Quiz - abstract class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/054_Quiz - overriding equals/054_Quiz - overriding equals.iml" filepath="$PROJECT_DIR$/054_Quiz - overriding equals/054_Quiz - overriding equals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DZ01B/DZ01B.iml" filepath="$PROJECT_DIR$/DZ01B/DZ01B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DZ02A/DZ02A.iml" filepath="$PROJECT_DIR$/DZ02A/DZ02A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DZ02B/DZ02B.iml" filepath="$PROJECT_DIR$/DZ02B/DZ02B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DZ03A/DZ03A.iml" filepath="$PROJECT_DIR$/DZ03A/DZ03A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DZ04A/DZ04A.iml" filepath="$PROJECT_DIR$/DZ04A/DZ04A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DZ05A/DZ05A.iml" filepath="$PROJECT_DIR$/DZ05A/DZ05A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DZ06/DZ06.iml" filepath="$PROJECT_DIR$/DZ06/DZ06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaVirtualMachine.iml" filepath="$PROJECT_DIR$/.idea/JavaVirtualMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projekt01/Projekt01.iml" filepath="$PROJECT_DIR$/Projekt01/Projekt01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test projekt/Test projekt.iml" filepath="$PROJECT_DIR$/Test projekt/Test projekt.iml" />
+    </modules>
+  </component>
+</project>
