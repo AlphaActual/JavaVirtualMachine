@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DZ09:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DZ09_jar</output-path>
+    <root id="archive" name="DZ09.jar">
+      <element id="module-output" name="DZ09" />
+    </root>
+  </artifact>
+</component>
