@@ -1,0 +1,7 @@
+.label {
+    -fx-font-size: 20px;
+    -fx-text-fill: green;
+}
+.text-field, .button {
+    -fx-font-size: 24px;
+}

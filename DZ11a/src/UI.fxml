@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller" stylesheets="@styles.css">
+    <!-- Polja za unos -->
+    <TextField fx:id="input1" GridPane.columnIndex="0" GridPane.rowIndex="0"/>
+    <TextField fx:id="input2" GridPane.columnIndex="1" GridPane.rowIndex="0"/>
+
+    <!-- Rezultat -->
+    <Label text="Result:" GridPane.columnIndex="0" GridPane.rowIndex="1"/>
+    <Label fx:id="result" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+
+    <!-- Dugmad za operacije -->
+    <Button text="+" onAction="#add" GridPane.columnIndex="0" GridPane.rowIndex="2" maxWidth="Infinity"/>
+    <Button text="-" onAction="#subtract" GridPane.columnIndex="1" GridPane.rowIndex="2" maxWidth="Infinity"/>
+    <Button text="*" onAction="#multiply" GridPane.columnIndex="0" GridPane.rowIndex="3" maxWidth="Infinity"/>
+    <Button text="/" onAction="#divide" GridPane.columnIndex="1" GridPane.rowIndex="3" maxWidth="Infinity"/>
+</GridPane>
